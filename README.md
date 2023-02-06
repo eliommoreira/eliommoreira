@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliommoreira
+- 👋 Hi, I’m @eliommoreira, I am a Civil Engineer and...
 - 👀 I’m interested in web development and PM
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Javascript or HTML or CSS problems and websites development
